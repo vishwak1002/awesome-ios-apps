@@ -1,0 +1,5 @@
+language: swift
+style: OOP
+domain: ios
+target_branch: main
+test_framework: xctest
